@@ -1,0 +1,9 @@
+_target_: app.detector.FaceDetector
+
+defaults:
+  - mtcnn: default.yaml
+
+resize: 1
+
+
+
